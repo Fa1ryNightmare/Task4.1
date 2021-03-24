@@ -24,6 +24,8 @@ namespace Task4_1
                 n++;
             }
             Console.WriteLine($"Сумма ряда: {x} + {S}");
+
+            Console.ReadKey();
         }
     }
 }
